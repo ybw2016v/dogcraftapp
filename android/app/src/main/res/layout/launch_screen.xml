@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:gravity="center"
+              android:background="#F0F0F0" >
+    <ImageView  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:src="@drawable/launch_screen" />  
+    <!-- <TextView android:id="@+id/text" 
+              android:layout_marginTop="0dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Dogcraft" />
+              <TextView android:id="@+id/text2" 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="基于React Native的套壳APP" />
+              <TextView android:id="@+id/text3" 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="dogcraft.top dogcraft.cn" /> -->
+</LinearLayout>
+
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_width="match_parent"
+
+    
+    android:background="@drawable/launch_screen">
+</LinearLayout> -->
+
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical" android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              >
+              
+              <bitmap xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:dither="true" android:src="@drawable/launch_screen"
+              android:tileMode="disabled"/>
+
+</LinearLayout> -->
+
